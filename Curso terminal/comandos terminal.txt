@@ -1,0 +1,35 @@
+cd, change directory
+mkdir, crear carpeta
+touch, crear archivo
+ls, crea una lista de los documentos y archivos
+alias, le pone un alias a un comando
+pwd, muestra la ruta actual
+cat, muestra el contenido de un .txt
+cp, copia archivos del directorio actual a un directorio diferente
+mv, mueve archivos del directorio actual a un directorio diferente
+rm, elimina directorios y su contenido
+sudo, te hace super usuario para realizar una tarea
+head, se usa para ver las primeras lineas de un archivo de texto
+chmod, cambia los permisos de lectura
+type, te especifica que tipo de archivo es
+which, sirve para buscar programas
+find, nos permite encontrar un archivo o carpeta
+grep, nos permite buscar coincidencias de busqueda en un archivo de texto
+wc, sirve para contar cuantas palabras contiene un archivo de texto
+ifconfig, nos muestra informacion de nuestra red
+ping, nos dice si una pagina esta activa
+curl, traer un archivo de manera de texto
+less, nos ayuda a leer un archivo de texto
+wget, similar a ipconfig
+traceroute, nos muestran todas las PC que intervienen para llegar a una URL
+netstat, nos muestran los dispositivos de red
+tar, nos sirve para comprimir archivos, tambien sirve para descomprimir
+zip, sirve para comprimir en formato zip
+unzip, para descomprimir un formato zip
+ps, sirve para ver que procesos estan corriendo en la terminal
+kill, sirve para cerrar un proceso
+top, nos muestra los procesos que estan usando mas recursos
+vim, editor de texto
+
+
+
