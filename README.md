@@ -1,3 +1,3 @@
-# BackendJavaAcademy
+# Terminal & Git/Github
 
-Repository for my exercises in the academy
+This repository contains the basic commands seen in platzi's terminal and git-github courses
